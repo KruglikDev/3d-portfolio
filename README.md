@@ -18,9 +18,9 @@ My new portfolio project with some 3d models.
 Install npm first and run the project:
 
 ```sh
-  npm install
+  bun i
 ```
 
 ```sh
-  npm start
+  bun dev
   ```

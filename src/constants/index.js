@@ -150,7 +150,7 @@ const experiences = [
     points: [
       'Designed architecture and developed applications from scratch, ensuring high code quality and compliance with business requirements.',
       'Conducted interviews and training of new employees, facilitating their rapid integration into the team and professional development.',
-      "Implemented new methodologies (Scrum, FSD, TBD) and technologies (GSAP, Bun, ISR, Million.js), which contributed to the team's efficiency.",
+      "Implemented new methodologies (Scrum, FSD, TBD) and technologies (GSAP, Biome, Bun, ISR, Million.js), which contributed to the team's efficiency.",
       'Wrote documentation, participated in code reviews and provided constructive feedback to other developers to improve code quality.',
       'Participated in the development of a grading system for the promotion and development of employees in the company, which contributed to the creation of a transparent career growth system.',
       'Optimized projects by transferring them from GSSP and CSR to ISR on demand, implementing Million.js to improve productivity.',

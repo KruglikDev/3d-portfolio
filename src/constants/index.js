@@ -53,7 +53,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Stuff Engineer',
+    title: 'staff Engineer',
     icon: web,
   },
   {
@@ -142,7 +142,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Web Developer | Team Lead | Stuff Engineer',
+    title: 'Web Developer | Team Lead | staff Engineer',
     company_name: 'Keep Calm',
     icon: kc,
     iconBg: '#f9f9f9',
